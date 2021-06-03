@@ -13,7 +13,7 @@
     .style-of-all-menu{
         position: fixed !important;
         top: 0%;
-        background-color: #ca0a0a !important;
+        background-color: #a81111 !important;
         width: 100%;
         z-index: unset !important;
         display: block;
@@ -26,19 +26,16 @@
         width: 100% !important;
     }
     .style-of-menu{
-        background-color: #ca0a0a;
+        background-color: #a81111;
     }
     .style-of-sdf{
-        text-decoration: none !important;
-        color: white !important;
+        text-decoration: none;
+        color: white;
         font-family: yekanplusbold;
-        font-size: 17px !important;
+        font-size: 17px;
         list-style: none;
         padding: 10px 15px;
     }
-    /* .border-top-of-menu{
-        border-top: white solid 2px !important;
-    } */
     .style-of-text-of-zirmenus{
         color: white;
         text-decoration: none;
@@ -64,7 +61,7 @@
         padding-bottom: 10px !important;
         padding-right: 0px !important;
         padding-left: 0px !important;
-        background-color: #ca0a0a;
+        background-color: #a81111;
         border-top-left-radius: 0px;
         border-top-right-radius: 0px;
         border-bottom-right-radius: 20px;
@@ -78,14 +75,14 @@
         right: 13%;
         display: none;
     }
-    .z-index-of-orginal-item-of-menu{
+    /* .z-index-of-orginal-item-of-menu{
         z-index: 1500000000000 !important;
-    }
+    } */
     .style-of-temirat-in-menu-and-open-or-close{
         display: inline;
     }
     .style-of-all-of-zirmajmoee{
-        background-color: #ca0a0a;
+        background-color: #a81111;
     }
     .solid-animation{
         animation-name: solid-animation !important;
@@ -101,7 +98,7 @@
         padding-bottom: 10px !important;
         padding-right: 0px !important;
         padding-left: 0px !important;
-        background-color: #ca0a0a;
+        background-color: #a81111;
     }
     #style-of-zirmenu-of-tamirat2{
         position: fixed;
@@ -116,7 +113,7 @@
         padding-bottom: 10px !important;
         padding-right: 0px !important;
         padding-left: 0px !important;
-        background-color: #ca0a0a;
+        background-color: #a81111;
         border-top-left-radius:      0px;
         border-top-right-radius:     0px;
         border-bottom-right-radius: 20px;
@@ -135,7 +132,7 @@
         padding-bottom: 10px !important;
         padding-right: 0px !important;
         padding-left: 0px !important;
-        background-color: #ca0a0a;
+        background-color: #a81111;
         border-top-left-radius: 0px;
         border-top-right-radius: 0px;
         border-bottom-right-radius: 0px;
@@ -154,7 +151,7 @@
         padding-bottom: 10px !important;
         padding-right: 0px !important;
         padding-left: 0px !important;
-        background-color: #ca0a0a;
+        background-color: #a81111;
         border-top-left-radius: 0px;
         border-top-right-radius: 0px;
         border-bottom-right-radius: 0px;
@@ -175,7 +172,7 @@
         padding-bottom: 10px !important;
         padding-right: 0px !important;
         padding-left: 0px !important;
-        background-color: #ca0a0a;
+        background-color: #a81111;
         border-top-left-radius: 0px;
         border-top-right-radius: 0px;
         border-bottom-right-radius: 0px;
@@ -194,7 +191,7 @@
         padding-bottom: 10px !important;
         padding-right: 0px !important;
         padding-left: 0px !important;
-        background-color: #ca0a0a;
+        background-color: #a81111;
         border-top-left-radius: 0px;
         border-top-right-radius: 0px;
         border-bottom-right-radius: 0px;
@@ -231,8 +228,8 @@
         animation-iteration-count: infinite;
     }
     .style-of-moarefi-shoql{
-        color: red;
-        background-color: black;
+        color: black;
+        background-color: #0ce21e;
         text-align: center;
         padding-top: 20px;
         padding-bottom: 20px;
@@ -456,7 +453,7 @@
         padding: 5px !important;
         margin-right: 1.5% !important;
         margin-bottom: 15px;
-        box-shadow:#ca0a0a 5px 5px 5px inset;
+        box-shadow:#a81111 5px 5px 5px inset;
         background-color: white;
     }
     #display-first-brand-pic{
@@ -585,7 +582,7 @@
         padding: 0%;
     }
     .style-of-footer-made-by-ITROSOFT :hover{
-        color: red !important;
+        color: #a81111 !important;
         text-shadow: #246ed7 2px 2px 2px;
         font-size: 17px;
         stroke: white;
@@ -754,7 +751,7 @@
         background-color: #246ed7;
     }
     50%{
-        background-color: #ca0a0a;
+        background-color: #a81111;
     }
 }
 @keyframes avazshdanaxhayslideshow {
@@ -963,7 +960,7 @@
         padding-bottom: 10px !important;
         padding-right: 0px !important;
         padding-left: 0px !important;
-        background-color: #ca0a0a;
+        background-color: #a81111;
         border-top-left-radius: 0px;
         border-top-right-radius: 0px;
         border-bottom-right-radius: 0px;
@@ -998,7 +995,7 @@
         padding-bottom: 10px !important;
         padding-right: 0px !important;
         padding-left: 0px !important;
-        background-color: #ca0a0a;
+        background-color: #a81111;
         border-top-left-radius: 0px;
         border-top-right-radius: 0px;
         border-bottom-right-radius: 0px;
@@ -1036,7 +1033,7 @@
         padding: 0%;
     }
     .style-of-footer-made-by-ITROSOFT :hover{
-        color: red !important;
+        color: #a81111 !important;
         text-shadow: #246ed7 2px 2px 2px;
         font-size: 17px;
         stroke: white;
@@ -1095,13 +1092,13 @@
         top: 0%;
         left: 0%;
         right: 0%;
-        background-color: #ca0a0a !important;
+        background-color: #a81111 !important;
         width: 100%;
         direction: rtl;
     }
     #style-of-all-menu-mo{
         display: none;
-        background-color: #ca0a0a;
+        background-color: #a81111;
         color: white;
         text-decoration: none;
         font-size: 20px;
@@ -1165,16 +1162,16 @@
         animation-iteration-count: infinite;
     }
     .style-of-moarefi-shoql{
-        color: white;
-        background-color: #246ed7;
+        color: rgb(0, 26, 255);
+        background-color: #0ce21e;
         text-align: center;
-        padding-top: 50px;
-        padding-bottom: 50px;
+        padding-top:    30px;
+        padding-bottom: 30px;
         padding-left: 30px;
         padding-right: 30px;
         font-family: yekanplusbold;
         line-height: 60px;
-        font-size: 30px;
+        font-size: 31px;
     }
     .style-of-shoar-img-in-index{
         width: 100%;
@@ -1182,7 +1179,7 @@
     }
     .style-of-entekhab-brand{
         color: white;
-        background-color: #ca0a0a;
+        background-color: #a81111;
         text-align: center;
         padding-top: 20px;
         padding-bottom: 20px;
@@ -1191,71 +1188,6 @@
         font-size: 25px;
         animation-name: taqir-BackgroundColor-az-blue-be-sabz;
         animation-duration: 2000ms;
-        animation-iteration-count: infinite;
-    }
-    .style-of-moarfi-kar-hayy-ke-anjam-myshan-mo{
-        text-decoration: none;
-    }
-    .style-of-moarfi-kar-hayy-ke-anjam-myshan-text-mo{
-        color: gray;
-        font-size: 60px;
-        font-family: yekanplusbold;
-        display: block;
-        text-align: center;
-        text-decoration: none;
-        padding-top: 10px;
-        padding-bottom: 10px;
-        border-bottom: rgba(128, 128, 128, 0.671) solid 1px;
-        border-top: rgba(128, 128, 128, 0.671) solid 1px;
-    }
-    .trn1{
-        animation-duration: 15000ms;
-        animation-name: trn1;
-        animation-iteration-count: infinite;
-    }
-    .trn2{
-        animation-duration: 15000ms;
-        animation-name: trn2;
-        animation-iteration-count: infinite;
-    }
-    .trn3{
-        animation-duration: 15000ms;
-        animation-name: trn3;
-        animation-iteration-count: infinite;
-    }
-    .trn4{
-        animation-duration: 15000ms;
-        animation-name: trn4;
-        animation-iteration-count: infinite;
-    }
-    .trn5{
-        animation-duration: 15000ms;
-        animation-name: trn5;
-        animation-iteration-count: infinite;
-    }
-    .trn6{
-        animation-duration: 15000ms;
-        animation-name: trn6;
-        animation-iteration-count: infinite;
-    }
-    .trn7{
-        animation-duration: 15000ms;
-        animation-name: trn7;
-        animation-iteration-count: infinite;
-    }
-    .trn8{
-        animation-duration: 15000ms;
-        animation-name: trn8;
-        animation-iteration-count: infinite;
-    }
-    .trn9{
-        animation-duration: 15000ms;
-        animation-name: trn9;
-        animation-iteration-count: infinite;
-    }
-    .trn10{
-        animation-duration: 15000ms;
-        animation-name: trn10;
         animation-iteration-count: infinite;
     }
     .style-of-all-brand-img{
@@ -1269,7 +1201,7 @@
         padding: 5px !important;
         margin-right: 1.5% !important;
         margin-bottom: 15px;
-        box-shadow:#ca0a0a 5px 5px 5px inset;
+        box-shadow:#a81111 5px 5px 5px inset;
         background-color: white;
         display: inline;
     }
@@ -1543,240 +1475,14 @@
     .style-of-new-news-tr{
         width: 100% !important;
     }
-
-    @keyframes trn1 {
-        0% {
-            background-color: #2fff00;
-            color: white;
-        }
-        10% {
-            background-color: #2fff00;
-            color: white;
-        }
-        11% {
-            background-color: white;
-        }
-        100% {
-            background-color: white;
-        }
-    }
-    @keyframes trn2 {
-        0% {
-            background-color: white;
-        }
-        10% {
-            background-color: white;
-        }
-        11% {
-            background-color: #29dd00;
-    
-            color: white;
-        }
-        20% {
-            background-color: #29dd00;
-    
-            color: white;
-        }
-        21% {
-            background-color: white;
-        }
-        100% {
-            background-color: white;
-        }
-    }
-    @keyframes trn3 {
-        0% {
-            background-color: white;
-        }
-        20% {
-            background-color: white;
-        }
-        21% {
-            background-color: #23be00;
-    
-            color: white;
-        }
-        30% {
-            background-color: #23be00;
-    
-            color: white;
-        }
-        31% {
-            background-color: white;
-        }
-        100% {
-            background-color: white;
-        }
-    }
-    @keyframes trn4 {
-        0% {
-            background-color: white;
-        }
-        30% {
-            background-color: white;
-        }
-        31% {
-            background-color: #1da000;
-    
-            color: white;
-        }
-        40% {
-            background-color: #1da000;
-    
-            color: white;
-        }
-        41% {
-            background-color: white;
-        }
-        100% {
-            background-color: white;
-        }
-    }
-    @keyframes trn5 {
-        0% {
-            background-color: white;
-        }
-        40% {
-            background-color: white;
-        }
-        41% {
-            background-color: #188300;
-    
-            color: white;
-        }
-        50% {
-            background-color: #188300;
-    
-            color: white;
-        }
-        51% {
-            background-color: white;
-        }
-        100% {
-            background-color: white;
-        }
-    }
-    @keyframes trn6 {
-        0% {
-            background-color: white;
-        }
-        50% {
-            background-color: white;
-            
-        }
-        51% {
-            background-color: #166e03;
-    
-            color: white;        
-        }
-        60% {
-            background-color: #166e03;
-    
-            color: white;
-        }
-        61% {
-            background-color: white;
-        }
-        100% {
-            background-color: white;
-        }
-    }
-    @keyframes trn7 {
-        0% {
-            background-color: white;
-        }
-        60% {
-            background-color: white;
-        }
-        61% {
-            background-color: #135c02;
-    
-            color: white;
-        }
-        70% {
-            background-color: #135c02;
-    
-            color: white;
-        }
-        71% {
-            background-color: white;
-        }
-        100% {
-            background-color: white;
-        }
-    }
-    @keyframes trn8 {
-        0% {
-            background-color: white;
-        }
-        70% {
-            background-color: white;
-        }
-        71% {
-            background-color: #154d08;
-    
-            color: white;
-        }
-        80% {
-            background-color: #154d08;
-    
-            color: white;
-        }
-        81% {
-            background-color: white;
-        }
-        100% {
-            background-color: white;
-        }
-    }
-    @keyframes trn9 {
-        0% {
-            background-color: white;
-        }
-        80% {
-            background-color: white;
-        }
-        81% {
-            background-color: #144409;
-    
-            color: white;
-        }
-        90% {
-            background-color: #144409;
-    
-            color: white;
-        }
-        91% {
-            background-color: white;
-        }
-        100% {
-            background-color: white;
-        }
-    }
-    @keyframes trn10 {
-        0% {
-            background-color: white;
-        }
-        90% {
-            background-color: white;
-        }
-        91% {
-            background-color: #0d3105;
-            color: white;
-        }
-        100% {
-            background-color: #0c2b06;
-            color: white;
-        }
-    }
     @keyframes change-color-sabt-sefaresh-in-menu {
         0% , 100% {
             color: white;
-            border: red solid 10px;
+            border: #a81111 solid 10px;
             border-radius: 20px;
         }
         50% {
-            color: red;
+            color: #a81111;
             border: white solid 10px;
             border-radius: 20px;
         }

@@ -14,35 +14,35 @@
 
 /* text colors */
 
-/* color reds */
-.text-color-red-1{
+/* color #a81111s */
+.text-color-#a81111-1{
     color: rgb(255, 0, 0);
 }
-.text-color-red-2{
+.text-color-#a81111-2{
     color: rgb(218, 0, 0);
 }
-.text-color-red-3{
+.text-color-#a81111-3{
     color: rgb(199, 0, 0);
 }
-.text-color-red-4{
+.text-color-#a81111-4{
     color: rgb(160, 0, 0);
 }
-.text-color-red-5{
+.text-color-#a81111-5{
     color: rgb(151, 2, 2);
 }
-.text-color-red-6{
+.text-color-#a81111-6{
     color: rgb(148, 1, 1);
 }
-.text-color-red-7{
+.text-color-#a81111-7{
     color: rgb(124, 0, 0);
 }
-.text-color-red-8{
+.text-color-#a81111-8{
     color: rgb(109, 0, 0);
 }
-.text-color-red-9{
+.text-color-#a81111-9{
     color: rgb(77, 1, 1);
 }
-.text-color-red-10{
+.text-color-#a81111-10{
     color: rgb(56, 0, 0);
 }
 
@@ -502,35 +502,35 @@
     font-size: 50px !important;
 }
 /* ***background colors*** */
-    /* red */
-        .background-color-red-1{
+    /* #a81111 */
+        .background-color-#a81111-1{
             background-color: rgb(255, 0, 0);
         }
-        .background-color-red-2{
+        .background-color-#a81111-2{
             background-color: rgb(218, 0, 0);
         }
-        .background-color-red-3{
+        .background-color-#a81111-3{
             background-color: rgb(199, 0, 0);
         }
-        .background-color-red-4{
+        .background-color-#a81111-4{
             background-color: rgb(160, 0, 0);
         }
-        .background-color-red-5{
+        .background-color-#a81111-5{
             background-color: rgb(151, 2, 2);
         }
-        .background-color-red-6{
+        .background-color-#a81111-6{
             background-color: rgb(148, 1, 1);
         }
-        .background-color-red-7{
+        .background-color-#a81111-7{
             background-color: rgb(124, 0, 0);
         }
-        .background-color-red-8{
+        .background-color-#a81111-8{
             background-color: rgb(109, 0, 0);
         }
-        .background-color-red-9{
+        .background-color-#a81111-9{
             background-color: rgb(77, 1, 1);    
         }
-        .background-color-red-10{
+        .background-color-#a81111-10{
             background-color: rgb(56, 0, 0);
         }
 /* green*/
