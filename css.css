@@ -1,4 +1,67 @@
 @media only screen and (min-width: 1000px){
+.right{
+    background-color: white;
+    width: 18%;
+    box-shadow: gray -5px -5px 5px , -5px 5px 5px;
+    float: right;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+}
+.center{
+    background-color: white;
+    width: 54%;
+    display: inline-block;
+    margin-left: 4%;
+    box-shadow: gray 5px -5px 5px , -5px 5px 5px;
+}
+.left{
+    background-color: white;
+    width: 18%;
+    box-shadow: gray 5px -5px 5px , 5px 5px 5px;
+    border: gray 10px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    float: left;
+}
+.style-of-index-titr{
+    color: rgb(4, 90, 26);
+    font-family: alger;
+    font-size: 100px;
+    text-align: center;
+}
+.style-of-index-sub-titr{
+    color: rgb(4, 90, 26);
+    font-family: yekanplusbold;
+    font-size: 20px;
+    text-align: center;
+    direction: rtl;
+}
+.style-of-adit-title{
+    color: black;
+    font-family: yekanplusbold;
+    font-size: 10px;
+    animation-name: change-color-of-style-of-adit-title;
+    animation-duration: 1500ms;
+    animation-iteration-count: infinite;
+    border-bottom: black solid 3px;
+    padding-bottom: 10px;
+
+}
+.style-of-adit-title-a{
+    text-decoration: none;
+}
+.style-of-saniaran-ad{
+    border: black solid 3px; 
+    padding: 5px;
+}
+.style-of-adit-img{
+    width: 100%;
+}
+.style-of-saniaran-ad-iframe{
+    width: 320px;
+    height: 280px;
+}
+
 /* ---------------------------------------------------------------------------------------------------- */
 /* menu styles  */
     .display-none-pc{
@@ -920,6 +983,11 @@
 }
 
 @font-face {
+    font-family: alger;
+    src: url('fonts/ALGER.TTF');
+}
+
+@font-face {
     font-family: naz;
     src: url('fonts/BNazanin.ttf');
 }
@@ -1007,6 +1075,25 @@
     }
 }
 @media only screen and (max-width: 1000px){
+    .style-of-adit-title{
+        color: black;
+        font-family: yekanplusbold;
+        font-size: 10px;
+        animation-name: change-color-of-style-of-adit-title;
+        animation-duration: 1500ms;
+        animation-iteration-count: infinite;
+        border-bottom: black solid 3px;
+    }
+    .style-of-adit-title-a{
+        text-decoration: none;
+    }
+    .style-of-saniaran-ad{
+        border: black solid 3px; 
+        padding: 5px;
+    }
+    .style-of-adit-img{
+        width: 100%;
+    }    
     .style-of-footer-asli-title{
         color: white;
         font-size: 60px;
@@ -1487,4 +1574,17 @@
             border-radius: 20px;
         }
     }
+}
+
+
+
+@font-face {
+    font-family: sevensegment;
+    src: url(fonts/Seven\ Segment.ttf);
+}
+.clocktext{
+    font-size: 100px;
+    font-family: sevensegment;
+    text-align: center;
+    color: darkblue;
 }

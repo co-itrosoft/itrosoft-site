@@ -37,3 +37,16 @@ function bardispalymenuitems() {
     document.getElementById("display-of-menu-zarbdar").style.display = "none";
     document.getElementById("style-of-all-menu-mo").style.display = "none";
 }
+
+setInterval(clock, 1000);
+
+function clock() {
+    var date = new Date();
+    var sec = date.getSeconds();
+    var min = date.getMinutes();
+    var hour = date.getHours();
+    var  b = document.getElementById("clocktext");
+    b.innerHTML = hour +":"+ min +":"+ sec;
+}
+
+clock();
